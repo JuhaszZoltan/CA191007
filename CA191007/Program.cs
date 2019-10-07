@@ -12,7 +12,7 @@ namespace CA191007
         {
             var lista = new List<string>
             {
-                "borsó", "lovasszekér", "kréta"
+                "borsó", "lovasszekér", "kréta", "só", "cukor"
             };
 
             foreach (var i in lista)
